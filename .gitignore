@@ -1,0 +1,11 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.DS_Store
+vscode/
+.vscode/
+.eslintrc.json
+CHANGELOG.md
+vsc-extension-quickstart.md
